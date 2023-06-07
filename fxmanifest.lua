@@ -6,7 +6,7 @@ author 'Jozo_85#2261'
 
 description 'Mandi LoadScreen | Free to use'
 
-version '1.0'
+version '1.0.1'
 
 loadscreen 'html/loadscreen.html'
 
