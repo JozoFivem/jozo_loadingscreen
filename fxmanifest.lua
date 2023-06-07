@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'Jozo_85#2261'
 
-description 'Load Screen | Tutorial on Youtube -> Jozo85'
+description 'Mandi LoadScreen | Free to use'
 
 version '1.0'
 
